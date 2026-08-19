@@ -1,4 +1,5 @@
 khasoggx-skin/
 ├── index.html
 ├── style.css
-└── controller.png
+└── images/
+    └── controller.png
